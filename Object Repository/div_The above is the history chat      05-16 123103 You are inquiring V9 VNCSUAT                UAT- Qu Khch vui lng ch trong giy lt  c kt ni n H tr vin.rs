@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The above is the history chat      05-16 123103 You are inquiring V9 VNCSUAT                UAT- Qu Khch vui lng ch trong giy lt  c kt ni n H tr vin</name>
+   <tag></tag>
+   <elementGuidId>acbb7c07-97ba-463c-bccb-1992a2508fb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chat_main.scroll_bar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f85d8a84-4d93-4e3a-9b95-61f066e32ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chat_main scroll_bar</value>
+      <webElementGuid>fc82e118-00b7-4a2f-b962-be2ce356c7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The above is the history chat      05-16 12:31:03 You are inquiring： V9 VNCSUAT                UAT- Quý Khách vui lòng chờ trong giây lát để được kết nối đến Hỗ trợ viên.   </value>
+      <webElementGuid>51c12b81-30c5-4326-a0a7-8e1275ff639c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;chat&quot;]/div[@class=&quot;chat_pc iframe&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;body_left&quot;]/div[@class=&quot;chat_main scroll_bar&quot;]</value>
+      <webElementGuid>8db0ad9a-ef9c-475a-bac6-a8087dee8fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_concat(id(, , K_L_D_Iframe, , ))_K_L_D_Iframe</value>
+      <webElementGuid>b20b7810-9050-47ff-b791-ca84567d0e23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>672dad1c-d778-40c9-8d00-bdda524bc59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UAT V9BET mang đến dịch vụ tốt nhất'])[1]/following::div[1]</value>
+      <webElementGuid>8889100f-4127-46e8-9321-d6819887872b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>6540b757-4155-4574-825e-cbcdf95716f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The above is the history chat      05-16 12:31:03 You are inquiring： V9 VNCSUAT                UAT- Quý Khách vui lòng chờ trong giây lát để được kết nối đến Hỗ trợ viên.   ' or . = 'The above is the history chat      05-16 12:31:03 You are inquiring： V9 VNCSUAT                UAT- Quý Khách vui lòng chờ trong giây lát để được kết nối đến Hỗ trợ viên.   ')]</value>
+      <webElementGuid>e02bbcf9-9664-4b8b-b628-d7b20f8a2aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

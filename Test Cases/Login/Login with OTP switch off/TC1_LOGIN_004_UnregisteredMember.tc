@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Verify login to Desktop website with Unregistered member</description>
+   <name>TC1_LOGIN_004_UnregisteredMember</name>
+   <tag>jentest3</tag>
+   <comment></comment>
+   <testCaseGuid>ad8a7c32-21a2-435c-83d7-802a473fc3d2</testCaseGuid>
+</TestCaseEntity>

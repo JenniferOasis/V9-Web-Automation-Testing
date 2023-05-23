@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Verify login to Desktop website with Inactive member</description>
+   <name>TC1_LOGIN_003_InactiveMember</name>
+   <tag>jentest4</tag>
+   <comment></comment>
+   <testCaseGuid>115f152f-a983-44e1-ba2c-d561344d693b</testCaseGuid>
+</TestCaseEntity>

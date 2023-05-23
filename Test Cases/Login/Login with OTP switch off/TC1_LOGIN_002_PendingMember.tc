@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Verify login to Desktop website with Pending member</description>
+   <name>TC1_LOGIN_002_PendingMember</name>
+   <tag> jenntest</tag>
+   <comment></comment>
+   <testCaseGuid>b758e608-9ef5-40e8-91aa-01259704a872</testCaseGuid>
+</TestCaseEntity>

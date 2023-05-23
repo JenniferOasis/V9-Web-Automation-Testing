@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Verify login to Desktop website with Active member and Verified OTP Status</description>
+   <name>TC_LOGINOTP_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c96cfcf5-48ad-47c4-b294-416390948b79</testCaseGuid>
+</TestCaseEntity>
